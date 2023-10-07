@@ -1,0 +1,54 @@
+header h1{
+    background-color: black;
+    color: white;
+ }
+ .heading{
+     background-color: violet;
+     color: white;
+ }
+ 
+ .about-me h2{
+     color: blue;
+ }
+ .about-me p{
+     color: rgba(14, 14, 15, 0.4);
+ }
+ .about-me b{
+     color: black;
+ }
+ .about-me a{
+     color: rgba(14, 14, 15, 0.4);
+ }
+ .education h2{
+     color: blue;
+ }
+ .education th{
+     background-color: black;
+     color: white;
+ }
+ .skill h2{
+     color: blue;
+ }
+ .skill ol{
+     color: red;
+ }
+ .skill ol ol{
+     color: rgba(14, 14, 180, 0.8) ;
+ }
+ .contact-me h2{
+     color: blue;
+ }
+ .contact-me{
+     background-color:rgba(12, 12, 13, 0.8);
+     color: rgba(239, 239, 245, 0.8);
+ }
+ .contact-me #btn{
+     color: rgba(239, 239, 245, 0.8);
+     background-color: blue;
+     border: 2px solid black;
+ }
+ 
+ footer{
+     background-color: black;
+    color: white;
+ }
